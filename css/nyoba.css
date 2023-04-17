@@ -23,5 +23,5 @@
 .foto{
     float: left;
     margin: 20px;
-    height: 250px;
+    height: auto;
 }
